@@ -1,5 +1,5 @@
 # github-jenkins-ci
-Demo : using github webhooks with jenkins
+Learning how to create and deliver webhooks
 
 ## Steps to test it on local machine 
 ### pre-reqs
