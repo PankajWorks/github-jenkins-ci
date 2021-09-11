@@ -35,4 +35,4 @@ docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins
 - [customizing web hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 ## GitHub Pull Request Builder Plugin
-- [link1](https://github.com/janinko/ghprb)
+- [link 1](https://github.com/janinko/ghprb)
